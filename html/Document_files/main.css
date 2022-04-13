@@ -1,0 +1,29 @@
+.div {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.white-box {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0.5px 0.5px 2px 1px #eee;
+}
+
+.down {
+    margin-top: 50px;
+}
+
+.left-line {
+    border-left : 1px solid #eee
+}
+
+.margin-left {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.col-padding {
+    padding : 20px;
+    margin-right: 10px;
+}
